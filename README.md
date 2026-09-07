@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
@@ -36,15 +38,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1051-height-checker](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/1051-height-checker) |
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0169-majority-element) |
 | [1051-height-checker](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/1051-height-checker) |
 ## Bubble Sort
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/1051-height-checker) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
