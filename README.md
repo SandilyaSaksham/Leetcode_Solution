@@ -7,15 +7,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
 |  |
 | ------- |
@@ -24,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -32,4 +36,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
