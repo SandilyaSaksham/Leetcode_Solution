@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0283-move-zeroes](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0680-valid-palindrome-ii](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0680-valid-palindrome-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0680-valid-palindrome-ii) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
