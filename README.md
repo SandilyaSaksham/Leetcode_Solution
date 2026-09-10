@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -86,4 +87,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Depth-First Search
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
