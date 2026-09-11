@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1051-height-checker](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/1051-height-checker) |
+| [3483-unique-3-digit-even-numbers](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
@@ -92,4 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
