@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
@@ -88,11 +89,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Recursion
 |  |
@@ -102,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/3483-unique-3-digit-even-numbers) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
