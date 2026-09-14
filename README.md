@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0414-third-maximum-number) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0242-valid-anagram) |
 | [0680-valid-palindrome-ii](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
 |  |
