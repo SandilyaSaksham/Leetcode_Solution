@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0001-two-sum) |
+| [0045-jump-game-ii](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0045-jump-game-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0268-missing-number) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0045-jump-game-ii) |
 | [0680-valid-palindrome-ii](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0680-valid-palindrome-ii) |
 ## Tree
 |  |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0835-image-overlap) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/SandilyaSaksham/Leetcode_Solution/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
